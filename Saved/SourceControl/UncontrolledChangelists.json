@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/CSE311/MegaActionPlatformer/Content/Blueprints/Characters/Player/ABP_Player.uasset",
+				"F:/CSE311/MegaActionPlatformer/Content/Widgets/WBP_HealthComponent.uasset",
+				"F:/CSE311/MegaActionPlatformer/Content/Blueprints/Characters/Player/BP_Player.uasset",
+				"F:/CSE311/MegaActionPlatformer/Content/Maps/Map_2DStage.umap"
+			]
+		}
+	]
+}
